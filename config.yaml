@@ -1,4 +1,4 @@
-baseURL: "https://context-swtich.netlify.app"
+baseURL: "https://context-switch.netlify.app"
 title: Context Switch
 paginate: 5
 theme: hugo-PaperMod

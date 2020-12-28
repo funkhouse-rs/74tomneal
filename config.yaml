@@ -1,4 +1,4 @@
-baseURL: "https://74tomneal.com"
+baseURL: "https://context-swtich.netlify.app"
 title: Context Switch
 paginate: 5
 theme: hugo-PaperMod

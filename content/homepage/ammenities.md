@@ -6,6 +6,7 @@ header_menu: true
 
 - Linens Provided
 - Wifi Access
+- Dog Friendly
 - Desk + Chair to enable working, if you want
 - Fully stocked kitchen
 - Pack'n'Play available

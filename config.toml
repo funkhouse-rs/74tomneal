@@ -11,7 +11,7 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Context Switch"
 
-googleAnalytics = "G-QS8PKE2D5R"
+googleAnalytics = "UA-188659658-1"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.

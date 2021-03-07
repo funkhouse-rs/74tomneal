@@ -7,7 +7,7 @@ Spacious three bedroom, two bath house on a private road in Ocracoke, North Caro
 
 Main Floor:
 - Bedroom with Full Bed
-- Bedroom with Bunk Bed 
+- Bedroom with Bunk Bed - lower full, upper twin, and a twin trundle bed
 - One bathroom
 - Open kitchen
 - Dining Room
@@ -16,5 +16,5 @@ Main Floor:
 Second Floor:
 - Master bedroom with Queen Bed
 - Bathroom
-- Loft with desk space + sofa bed
+- Loft with desk space + couches
 

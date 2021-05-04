@@ -6,13 +6,18 @@ header_menu: true
 
 - Linens Provided
 - Wifi Access
-- Two Smart TV's
-- Dog Friendly
-- Desk + Chair to enable working, if you want
 - Fully stocked kitchen
-- Pack'n'Play available
-- Booster Seat
-- Books, Games, Puzzles, and a Movie collection
 - Outdoor Shower
 - Fish Cleaning Table
-- Screened in Deck
+- 2 Screened in Decks
+- Two Smart TV's with Hulu and HBOMax
+- Books, Games, Puzzles, and a Movie collection
+- Desk + Chair to enable working, if you want
+- Kid Friendly
+    - Pack'n'Play available
+    - Booster Seat
+    - Kids toys and books
+    - Baby Monitor
+- Dog Friendly 
+    - Dog Beds
+    - Dog Food and Water Bowls

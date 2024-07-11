@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: ""
 weight: 1
 header_menu: false
 ---

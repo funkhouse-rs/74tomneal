@@ -4,7 +4,11 @@ weight: 1
 header_menu: false
 ---
 
-**Available Now!** 
+## Coming Soon For Purchase
+
+Contact [Ocracoke Lightship Realty](https://ocracokelightshiprealty.com/) for details
+
+## Available For Short Term Rentals
 
 Looking for a Pet Friendly, Family Friendly vacation rental in Ocracoke, North Carolina? Look no further. This house has it all: 
 
